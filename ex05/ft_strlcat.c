@@ -6,8 +6,11 @@
 /*   By: mabd-ram <mabd-ram@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/11 14:07:08 by mabd-ram          #+#    #+#             */
-/*   Updated: 2024/05/11 14:07:09 by mabd-ram         ###   ########.fr       */
+/*   Updated: 2024/05/11 15:55:37 by mabd-ram         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
+unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
+{
+	 
+}
